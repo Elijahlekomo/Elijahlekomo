@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi! My name is Elijah Lekomo 👋  
+Am a .net developer. I'm interested in AI, .net, and cloud development.    
 
-<!--
-**Elijahlekomo/Elijahlekomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   
+ __Skills__    
+ 
+ [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,cpp,js,html,css,react,angular,git,github,)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a Expense tracker project
+- 🌱 I’m currently learning Azure
+- 👯 I’m looking to collaborate on .net projects and cloud development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me:   
+[linkedin](https://www.linkedin.com/in/lekomo-elijah/)   
+Email: lekomoe@gmail.com
+
