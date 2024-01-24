@@ -1,5 +1,5 @@
 ## Hi! My name is Elijah Lekomo 👋  
-Am a .net developer. I'm interested in AI, .net, and cloud development.    
+Am a .net developer. I'm interested in AI, .Net, and cloud development.    
 
    
  __Skills__    
@@ -8,7 +8,7 @@ Am a .net developer. I'm interested in AI, .net, and cloud development.
 
 - 🔭 I’m currently working on a Expense tracker project
 - 🌱 I’m currently learning Azure
-- 👯 I’m looking to collaborate on .net projects and cloud development
+- 👯 I’m looking to collaborate on .Net projects and cloud development
 
 📫 How to reach me:   
 [linkedin](https://www.linkedin.com/in/lekomo-elijah/)   
