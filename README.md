@@ -1,5 +1,5 @@
 ## Hi! My name is Elijah Lekomo 👋  
-Am a .net developer. I'm interested in AI, .Net, and cloud development.    
+Am a C# .Net developer. I'm interested in AI, and cloud development.    
 
    
  __Skills__    
