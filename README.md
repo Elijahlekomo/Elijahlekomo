@@ -12,6 +12,6 @@ Am a C# .Net developer. I'm interested in AI, and cloud development.
 
 📫 How to reach me:   
 [linkedin](https://www.linkedin.com/in/lekomo-elijah/)   
-Email: lekomoe@gmail.com
+Email: lekomoe@gmail.com   
 [Visit My Website](https://elijahlekomo.netlify.app)
 
