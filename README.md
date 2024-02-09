@@ -4,7 +4,7 @@
    
  __Skills__    
  
- [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,cpp,js,html,css,react,angular,bootstrap,git,github,)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,cpp,js,html,css,react,bootstrap,angular,git,github,)](https://skillicons.dev)
 
 - 🔭 I’m currently working on a Expense tracker project.
 - 🌱 I’m currently learning Azure.
