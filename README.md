@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on .Net projects and cloud development.
 
 📫 How to reach me:   
+[Visit My Website](https://elijahlekomo.netlify.app)  
 [linkedin](https://www.linkedin.com/in/lekomo-elijah/)   
 Email: lekomoe@gmail.com   
-[Visit My Website](https://elijahlekomo.netlify.app)
 
