@@ -1,5 +1,5 @@
 ## Hi! My name is Elijah Lekomo 👋  
- I am a Microsoft certified C# .NET Developer and currently studying towards a Bachelor's degree in Computer Science.  I'm interested in AI, and cloud development.
+ I am a Microsoft certified C# .NET Developer and currently studying towards a Bachelor's degree in Computer Science. I'm interested in AI, and cloud development.
    
  __Skills__    
  
