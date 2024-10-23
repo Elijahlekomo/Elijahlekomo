@@ -10,15 +10,19 @@
 - 👯 I’m looking to collaborate on .Net projects and cloud development.
 
 __📫 How to reach me:__   
+<p fontsize="5px">    
 <a href="https://www.linkedin.com/in/lekomo-elijah/">
-   <img alt="Porfolio" src="https://img.shields.io/badge/vist my website-8A2BE2"/>
- </a>    
-<a href="https://www.linkedin.com/in/lekomo-elijah/">
-   <img alt="Linkedln" src="https://img.shields.io/badge/linkedln-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
+   <img alt="Linkedln" src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=white&flat"/>
 </a>
-<a href="malito:lekomoe@gmail.com ">
-    <img alt="email" src="https://img.shields.io/badge/Email: _-lekomoe@gmail.com-blue"/>
+ <a href="https://www.linkedin.com/in/lekomo-elijah/">
+   <img alt="Porfolio" src="https://img.shields.io/badge/vist my website-8A2BE2&flat"/>
+ </a>
+ <a href="malito:lekomoe@gmail.com ">
+ <img alt="Email" src="https://img.shields.io/badge/Email-white?logo=gmail&logoColor=red&flat"/>
 </a>  
+    
+</p>
+
 
 
 
