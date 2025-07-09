@@ -5,7 +5,7 @@
  
  [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,azure,js,angular,react,html,css,cpp,qt,bootstrap,git,github,)](https://skillicons.dev)
 
-- 🔭 I’m currently working on a full stack Ecommerce project.
+- 🔭 I’m currently working on a Mobile App application that simplifies the process of converting handwritten assignments or exam answer sheets into PDF documents.
 - 🌱 I’m currently learning Azure.
 - 👯 I’m looking to collaborate on .Net projects and cloud development.
 
